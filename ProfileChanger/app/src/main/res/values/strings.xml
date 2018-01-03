@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProfileChanger</string>
+    <string name="app_info">when this word is send to your phone via SMS,profile of your phone changes from Silent to General and Alarm goes ON.</string>
+    <string name="search_hint">set trigger word</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="melody">Melody</string>
+    <string name="magic">Magic</string>
+    <string name="lovely">Lovely</string>
+    <string name="drop">Drop</string>
+    <string name="nice_sound">Nice Sound</string>
+</resources>
